@@ -4,6 +4,10 @@
 *should the exponents fail to be listed in strictly descending order
 */
 
-public class InvalidPolynomialSyntax {
+public class InvalidPolynomialSyntax extends RuntimeException {
+    InvalidPolynomialSyntax(String msg){
+        super(msg);
+    }
+
     
 }
