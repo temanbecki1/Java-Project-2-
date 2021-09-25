@@ -1,0 +1,1 @@
+This is a file to test invalid syntax error containing no polynomials.
