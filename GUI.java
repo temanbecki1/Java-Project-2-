@@ -1,7 +1,9 @@
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-/*Author : Teman Beck
+/*
+*Author : Teman Beck
+*CMSC 350 Project 2
 *Date : September 15th, 2021
 *This class defines our GUI for our main program functionality.
 *
